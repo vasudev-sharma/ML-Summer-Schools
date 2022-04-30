@@ -1,2 +1,8 @@
 # ML-Summer-Schools
 Repository for summer schools all around the globe.
+
+# 2022
+| Name | Link | Deadline/Dates | Location | 
+| :--- | :----: | :----:  | ----:   | 
+| ELLIS Machine Learning Summer School | http://www.ellis.eng.cam.ac.uk/summerschool/ | 22nd May |  UK |
+| European Summer School on Data Science for Social Media | https://www.euads.org/fjkdlasjdiglsmdgkcxjhvckh/euads-summer-school/ | 15-17th June |  Luxembourg |
